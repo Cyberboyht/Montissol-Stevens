@@ -1,7 +1,4 @@
-# My-Personal-Description
-@@ -7,21 +7,21 @@
-
-<p align="left"> <a href="https://twitter.com/MontissolSteve1_" target="blank"><img src="https://img.shields.io/twitter/follow/montissolstevens_? logo=twitter&style=for-the-badge" alt="montissolstevens_" /></a> </p>
+#Montissol Stevens
 
 - 🔭 Je suis actuellement en stage a distance sur des projets de Recherches sur la Machine Learning,l'IA,l'Analyses de donnees et l'astrophysic
 - 🌱 J'apprends actuellement ** Python, Numpy,Matplotlib,PHP/MySql,Java **
