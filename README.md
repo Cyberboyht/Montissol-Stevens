@@ -1,4 +1,4 @@
-#Montissol Stevens
+#Love Coding
 
 - 🔭 Je suis actuellement en stage a distance sur des projets de Recherches sur la Machine Learning,l'IA,l'Analyses de donnees et l'astrophysic
 - 🌱 J'apprends actuellement ** Python, Numpy,Matplotlib,PHP/MySql,Java **
@@ -15,5 +15,5 @@
 
 - ⚡ Fun fact **J'adore coder et apprendre de nouvelles choses afin d'aider ma communaute **
 
-<h3 align="left">Contactez-moi :</h3>
+<h3 align="left">Contactez-moi : Sur Facebook-Twitter et github</h3>
 <p align="left">
