@@ -15,5 +15,5 @@
 
 - ⚡ Fun fact **J'adore coder et apprendre de nouvelles choses afin d'aider ma communaute **
 
-<h3 align="left">Contactez-moi : Sur Facebook-Twitter et github</h3>
+<h3 align="left">Contactez-moi : Sur Facebook-Twitter et Github</h3>
 <p align="left">
